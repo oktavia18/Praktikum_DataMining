@@ -1,6 +1,6 @@
 # Praktikum_DataMining
 
-# 📊 Dasbor Klasifikasi Data Mining (RandomForest Classifier Dashboard)
+# 📊 Prediksi Performa Akademik Siswa (RandomForest Classifier Dashboard)
 
 Repositori ini berisi proyek **Data Mining** berupa dasbor interaktif berbasis web menggunakan **Streamlit** untuk melatih, mengevaluasi, dan melakukan prediksi klasifikasi menggunakan algoritma **RandomForestClassifier**. 
 
